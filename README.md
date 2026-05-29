@@ -2,7 +2,7 @@
 
 ## Candidate Information
 
-**Name:** Surya Koundinya
+**Name:** Surya Koundinya C
 
 **City Selected:** Bengaluru
 
